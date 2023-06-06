@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sandwich/static/css/main.fc42fec4.css",
-    "main.js": "/sandwich/static/js/main.be21c48f.js",
-    "static/media/bg.jpg": "/sandwich/static/media/bg.38fd685cb60c21f33553.jpg",
-    "static/media/bgHeader.jpg": "/sandwich/static/media/bgHeader.d2607170ed7eb28375e5.jpg",
-    "index.html": "/sandwich/index.html",
-    "main.fc42fec4.css.map": "/sandwich/static/css/main.fc42fec4.css.map",
-    "main.be21c48f.js.map": "/sandwich/static/js/main.be21c48f.js.map"
+    "main.css": "/Sandwich/static/css/main.5f5518ba.css",
+    "main.js": "/Sandwich/static/js/main.ef2efd96.js",
+    "static/media/bg.jpg": "/Sandwich/static/media/bg.38fd685cb60c21f33553.jpg",
+    "static/media/bgHeader.jpg": "/Sandwich/static/media/bgHeader.d2607170ed7eb28375e5.jpg",
+    "index.html": "/Sandwich/index.html",
+    "main.5f5518ba.css.map": "/Sandwich/static/css/main.5f5518ba.css.map",
+    "main.ef2efd96.js.map": "/Sandwich/static/js/main.ef2efd96.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc42fec4.css",
-    "static/js/main.be21c48f.js"
+    "static/css/main.5f5518ba.css",
+    "static/js/main.ef2efd96.js"
   ]
 }
