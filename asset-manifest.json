@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Sandwich/main/static/css/main.d3196ded.css",
-    "main.js": "/Sandwich/main/static/js/main.ef2efd96.js",
-    "static/media/bg.jpg": "/Sandwich/main/static/media/bg.38fd685cb60c21f33553.jpg",
-    "static/media/bgHeader.jpg": "/Sandwich/main/static/media/bgHeader.d2607170ed7eb28375e5.jpg",
-    "index.html": "/Sandwich/main/index.html",
-    "main.d3196ded.css.map": "/Sandwich/main/static/css/main.d3196ded.css.map",
-    "main.ef2efd96.js.map": "/Sandwich/main/static/js/main.ef2efd96.js.map"
+    "main.css": "/Sandwich/static/css/main.5f5518ba.css",
+    "main.js": "/Sandwich/static/js/main.ef2efd96.js",
+    "static/media/bg.jpg": "/Sandwich/static/media/bg.38fd685cb60c21f33553.jpg",
+    "static/media/bgHeader.jpg": "/Sandwich/static/media/bgHeader.d2607170ed7eb28375e5.jpg",
+    "index.html": "/Sandwich/index.html",
+    "main.5f5518ba.css.map": "/Sandwich/static/css/main.5f5518ba.css.map",
+    "main.ef2efd96.js.map": "/Sandwich/static/js/main.ef2efd96.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3196ded.css",
+    "static/css/main.5f5518ba.css",
     "static/js/main.ef2efd96.js"
   ]
 }
